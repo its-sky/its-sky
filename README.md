@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 ![its-sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-sky&show_icons=true&theme=darcula)
+</div>
