@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![its-sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-sky&show_icons=true&theme=darcula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=smc9919)](https://solved.ac/smc9919)
