@@ -19,7 +19,6 @@
 </br>  
 
 ### 📞𝗖𝗼𝗻𝘁𝗮𝗰𝘁
-<img src="https://img.shields.io/badge/mincshin-9cf?style=flat&logo=42&logoColor=000000"/>
 <a href="https://velog.io/@smc9919">
   <img src="https://img.shields.io/badge/Velog-lightgrey?style=flat&logo=Velog&logoColor=20C997"/>
 </a>
