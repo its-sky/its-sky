@@ -7,6 +7,7 @@
 ### 👨🏻‍💻𝗦𝘁𝘂𝗱𝘆𝗶𝗻𝗴
 <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Java-e6e6fa?style=flat&logo=OpenJDK&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Kotlin-9933cc?style=flat&logo=Kotlin&logoColor=00CCFF"/>
 <img src="https://img.shields.io/badge/Spring-6db33f?style=flat&logo=Spring&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/SpringBoot-6db33f?style=flat&logo=Spring Boot&logoColor=FFFFFF"/>
 </br>
