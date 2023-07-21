@@ -1,7 +1,5 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&text=its-sky&color=gradient&fontSize=59&animation=fadeIn)
-
 ## 𝙃𝙞! 𝙄'𝙢 𝙈𝙞𝙣𝙘𝙝𝙚𝙤𝙡 𝙎𝙝𝙞𝙣!
   
 ### 👨🏻‍💻𝗦𝘁𝘂𝗱𝘆𝗶𝗻𝗴
