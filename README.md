@@ -28,5 +28,15 @@
 </br>  
 </br>  
 
+ ## 👩‍💻 Experience 👩‍💻
+
+|활동 소속 | 기간 | 포지션 | 내용 |
+|---|---|---|---|
+|<a href="https://www.moonshotyou.com">MOONSHOT</a>| 23.12 ~ | Backend Developer, Lead | 유난한 도전을 꿈꾸는 당신을 위한 목표 달성 프레임워크, MOONSHOT🚀 |
+|<a href="https://www.moonshotyou.com">COMO</a>| 23.12 ~ | Backend Developer, Lead | IT 팀원 모집, 재능공유 플랫폼 |
+
+
+<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=smc9919)](https://solved.ac/smc9919)
 </div>
