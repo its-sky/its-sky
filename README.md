@@ -32,4 +32,3 @@
 |<a href="https://www.sopt.org">DO SOPT</a>| 23.09 ~ 24.01 | Backend Developer | DO SOPT 33th Server Part Developer |
 |<a href="https://github.com/TeamCOMO/server">COMO</a>| 23.06 ~ 23.12 | Backend Developer, Lead | IT 팀원 모집, 재능공유 플랫폼 |
 |<a href="https://github.com/PeerNA/Backend">PeerNA</a>| 23.03 ~ | Backend Developer | 실시간 CS 동료 학습 플랫폼 (세종대학교 창의경진대회 우수상 수상작) |
-|<a href="https://42seoul.kr/seoul42/main/view">42 SEOUL</a>| 22.05 ~ 23.04 | Cadet | 42 Seoul Cadet |
