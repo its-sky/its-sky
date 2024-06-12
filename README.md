@@ -1,6 +1,6 @@
 <div align=center>
 
-## 𝙃𝙞! 𝙄'𝙢 𝙈𝙞𝙣𝙘𝙝𝙚𝙤𝙡 𝙎𝙝𝙞𝙣!  
+## 𝙃𝙞! 𝙄'𝙢 𝙈𝙞𝙣𝙘𝙝𝙚𝙤𝙡 𝙎𝙝𝙞𝙣! 
 ### 👨🏻‍💻𝗦𝘁𝘂𝗱𝘆𝗶𝗻𝗴
 <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Java-e6e6fa?style=flat&logo=OpenJDK&logoColor=000000"/>
