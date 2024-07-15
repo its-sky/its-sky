@@ -10,4 +10,4 @@ I am a backend developer who is interested in infrastructure, architecture, clou
 
 ### 📞 Contacts
 
-[Email](mailto:smc9919@naver.com) |  [Resume & Portfolio](https://www.notion.so/e13c32e790f54f488b539cffec667cbf)
+[Email](mailto:smc9919@naver.com) | [Blog](https://velog.io/@smc9919) |  [Resume & Portfolio](https://www.notion.so/e13c32e790f54f488b539cffec667cbf)
